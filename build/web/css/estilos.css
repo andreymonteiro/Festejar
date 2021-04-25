@@ -1,0 +1,88 @@
+
+/*logo*/
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+/*header*/
+.header .container {
+	display: flex;
+	align-items: baseline;
+  align-items: center;
+  justify-content:space-between;
+  height: 40px;
+  padding: 0px;
+ 
+}
+.icon-menu {
+	display: inline-block;
+	font-size: 25px;
+	cursor: pointer;
+	color: #3f4040;
+	
+}
+/*menu*/
+#menu ul {
+    padding:5px;
+    margin:100%px;
+    list-style:none;
+}
+#menu ul li {
+ display: inline; 
+ }
+ #menu ul li a {
+    padding: 5px 20px;
+    display: inline-block;
+	
+
+    color: #333;
+    text-decoration: none;
+
+}
+#menu ul li a:hover {
+    background-color:#A9DB8E ;
+    color: #A9DB8E ;
+}
+
+/*CADASTRO*/
+#btnCadastrar{
+	background-color: #CD5C5C;
+	font-size: 16px;
+	color: white;
+	border: none;
+}
+
+#btnEntrar{
+	background-color: #CD5C5C;
+	font-size: 16px;
+	color: white;
+	border: none;
+}
+
+
+#button{
+	background-color: #52CCBA;
+	font-size: 16px;
+	color: white;
+	border: none;
+}
+
+
+a.tunfo:link
+{ 
+  background-color:  #CD5C5C;
+ text-decoration:none; 
+} 
+
+a.tunfo2:link
+{ 
+  
+ text-decoration:none; 
+} 
+
+
+#senha{
+    color:lightgray;
+    
+}

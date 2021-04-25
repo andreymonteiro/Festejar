@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Andrey/Documents/NetBeansProjects/Festejar/web/cadastroPdt.jsp</file>
+            <file>file:/C:/Users/Andrey/Documents/NetBeansProjects/Festejar/src/java/controller/CadastrarProduto.java</file>
+            <file>file:/C:/Users/Andrey/Documents/NetBeansProjects/Festejar/web/erro.jsp</file>
+            <file>file:/C:/Users/Andrey/Documents/NetBeansProjects/Festejar/web/index.jsp</file>
+            <file>file:/C:/Users/Andrey/Documents/NetBeansProjects/Festejar/src/java/controller/ExcluirProduto.java</file>
+            <file>file:/C:/Users/Andrey/Documents/NetBeansProjects/Festejar/web/navmenu.jsp</file>
+            <file>file:/C:/Users/Andrey/Documents/NetBeansProjects/Festejar/src/java/dao/Conexao.java</file>
+            <file>file:/C:/Users/Andrey/Documents/NetBeansProjects/Festejar/src/java/model/Produto.java</file>
+            <file>file:/C:/Users/Andrey/Documents/NetBeansProjects/Festejar/web/alterarcadastro.jsp</file>
+            <file>file:/C:/Users/Andrey/Documents/NetBeansProjects/Festejar/web/listaP.jsp</file>
+            <file>file:/C:/Users/Andrey/Documents/NetBeansProjects/Festejar/src/java/dao/ProdutoDAO.java</file>
+            <file>file:/C:/Users/Andrey/Documents/NetBeansProjects/Festejar/web/css/estilos.css</file>
+            <file>file:/C:/Users/Andrey/Documents/NetBeansProjects/Festejar/src/java/controller/CadastrarPessoa.java</file>
+            <file>file:/C:/Users/Andrey/Documents/NetBeansProjects/Festejar/src/java/controller/Logar.java</file>
+            <file>file:/C:/Users/Andrey/Documents/NetBeansProjects/Festejar/web/paganuncio.jsp</file>
+            <file>file:/C:/Users/Andrey/Documents/NetBeansProjects/Festejar/src/java/controller/Anuncio.java</file>
+            <file>file:/C:/Users/Andrey/Documents/NetBeansProjects/Festejar/web/cadastro.jsp</file>
+            <file>file:/C:/Users/Andrey/Documents/NetBeansProjects/Festejar/src/java/dao/PessoaDAO.java</file>
+            <file>file:/C:/Users/Andrey/Documents/NetBeansProjects/Festejar/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Andrey/Documents/NetBeansProjects/Festejar/web/alterarproduto.jsp</file>
+            <file>file:/C:/Users/Andrey/Documents/NetBeansProjects/Festejar/src/java/model/Pessoa.java</file>
+            <file>file:/C:/Users/Andrey/Documents/NetBeansProjects/Festejar/web/entrar.jsp</file>
+        </group>
+    </open-files>
+</project-private>
